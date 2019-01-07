@@ -1,2 +1,2 @@
 Welcome to ReactJS: 
-ReactJS is a Javascript Based Framework.
+ReactJS is a JavaScript Based Framework.
